@@ -73,13 +73,11 @@ Assessment of strategy behavior across different capital allocations.
 
 ### Equity Curve
 
-https://github.com/rsahil826-collab/Quant-Research-Portfolio/blob/2a0dfd3c2c0998c2cfff6003f96a7854f6817ea0/screenshots/2020%20-%20present.png
-
+screenshots/2020 - present.png
 ---
 
 ### Drawdown Analysis
 
-https://github.com/rsahil826-collab/Quant-Research-Portfolio/blob/2a0dfd3c2c0998c2cfff6003f96a7854f6817ea0/screenshots/2020-present%20metrics.png
 ---
 
 ## Research Philosophy
