@@ -1,7 +1,5 @@
 # Systematic Quantitative Research Framework
 
-# Quantitative Research Portfolio
-
 ## Overview
 
 This repository documents the research methodology, validation framework, and risk evaluation process used to assess systematic trading strategies.
