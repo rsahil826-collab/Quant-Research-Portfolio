@@ -69,7 +69,7 @@ Assessment of strategy behavior across different capital allocations.
 
 ---
 
-## Screenshot Gallery
+## Strategy Backtest
 
 ### Equity Curve
 ![Equity Curve](./screenshots/2020%20-%20present.png)
