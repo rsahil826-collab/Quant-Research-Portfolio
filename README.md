@@ -91,8 +91,8 @@ Research emphasizes:
 
 ---
 
-### LinkedIn : www.linkedin.com/in/sahilrao
-
+## LinkedIn : www.linkedin.com/in/sahilrao
+---
 ## Disclaimer
 
 This repository is intended for portfolio and research demonstration purposes only.
