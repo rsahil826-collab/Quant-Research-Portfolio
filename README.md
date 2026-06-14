@@ -72,11 +72,12 @@ Assessment of strategy behavior across different capital allocations.
 ## Screenshot Gallery
 
 ### Equity Curve
-![Performance Metrics](screenshots/202020%-20%present.png.png)
+![Performance Metrics](screenshots/performance-metrics-2020-present.png)
 ---
 
 ### Drawdown Analysis
-![Performance Metrics 2020-Present](screenshots/2020-present%20metrics.png)---
+![Performance Metrics 2020-Present](screenshots/2020-present%20metrics.png)
+---
 
 ## Research Philosophy
 
