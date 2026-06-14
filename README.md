@@ -72,7 +72,7 @@ Assessment of strategy behavior across different capital allocations.
 ## Screenshot Gallery
 
 ### Equity Curve
-![Equity Curve 2020-Present](screenshots/2020%20-%20present.png)
+![Equity Curve 2020-Present](screenshots/2020 - present.png)
 
 ---
 
