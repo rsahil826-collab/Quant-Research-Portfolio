@@ -1,4 +1,4 @@
-# Systematic Quantitative Research Framework
+# Systematic Quant Strategy Research
 
 ## Overview
 
