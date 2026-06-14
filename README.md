@@ -73,32 +73,13 @@ Assessment of strategy behavior across different capital allocations.
 
 ### Equity Curve
 
-![Equity Curve](screenshots/equity-curve.png)
+https://github.com/rsahil826-collab/Quant-Research-Portfolio/blob/2a0dfd3c2c0998c2cfff6003f96a7854f6817ea0/screenshots/2020%20-%20present.png
 
 ---
 
 ### Drawdown Analysis
 
-![Drawdown Analysis](screenshots/drawdown-analysis.png)
-
----
-
-### Walk-Forward Validation
-
-![Walk Forward](screenshots/walk-forward.png)
-
----
-
-### Parameter Sensitivity
-
-![Parameter Sensitivity](screenshots/parameter-sensitivity.png)
-
----
-
-### Capital Scaling
-
-![Capital Scaling](screenshots/capital-scaling.png)
-
+https://github.com/rsahil826-collab/Quant-Research-Portfolio/blob/2a0dfd3c2c0998c2cfff6003f96a7854f6817ea0/screenshots/2020-present%20metrics.png
 ---
 
 ## Research Philosophy
