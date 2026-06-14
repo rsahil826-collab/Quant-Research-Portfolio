@@ -1,4 +1,4 @@
-# Quantitative Research Portfolio
+# Systematic Quantitative Research Framework
 
 ## Overview
 
